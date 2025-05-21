@@ -91,4 +91,4 @@ Special thanks to Claire’s Place Foundation and BUAD 312 faculty for the oppor
 If you have any questions or feedback about this project, feel free to reach out:
 
 **Francesca Kubica**  
-[GitHub Profile](https://github.com/francescakubica) | [LinkedIn](https://www.linkedin.com/in/francescakubica)
+[GitHub Profile](https://github.com/francescakubica) | [LinkedIn](https://www.linkedin.com/in/francesca-kubica/)
