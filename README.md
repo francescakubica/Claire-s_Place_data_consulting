@@ -1,7 +1,5 @@
 # Work Proudly Program & Claire's Place Foundation Impact Analysis
 
-![Project Banner](https://user-images.githubusercontent.com/your-github-banner-placeholder.png)
-
 > **Team Members:** Francesca Kubica, Lee Stilwell, Leyna Nguyen, Theodora Heredia, Guadalupe Martinez, Jennifer Zhang  
 > **Course:** BUAD 312 | Final Project  
 > **Presentation Recording:** [Watch Here](https://youtu.be/3vSi_zE2wP)
